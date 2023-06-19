@@ -15,6 +15,7 @@ pip install -r requirements.txt
 cd src
 python manage.py runserver
 ```
+<img src="docs/images/run.png" alt="Run Server"/>
 5. Go to [http://localhost:8000](http://localhost:8000) to see your website.
 
 <img src="docs/images/login.png" alt="Login Page" height="500px"/>
