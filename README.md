@@ -19,11 +19,6 @@ python manage.py runserver
 
 
 <p align="center">
-<img src="https://github.com/meysam-aghili/password_storage/blob/7e09a80a4c3c5807c47feab5a9289372a6cec8f6/docs/images/display.png" alt="DIY Project" width="500"/>
-
-</p>
-
-<p align="center">
-<img src="docs/images/display.png" alt="DIY Project" width="500"/>
+<img src="docs/images/display.png" alt="DIY Project"/>
 
 </p>
