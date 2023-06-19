@@ -18,6 +18,12 @@ python manage.py runserver
 5. Go to [http://localhost:8000](http://localhost:8000) to see your website.
 
 
-![login page](https://github.com/meysam-aghili/password_storage/tree/main/docs/images/login.png?raw=true)
+<p align="center">
+<img src="https://github.com/meysam-aghili/password_storage/blob/7e09a80a4c3c5807c47feab5a9289372a6cec8f6/docs/images/display.png" alt="DIY Project" width="500"/>
 
-![display page](https://github.com/meysam-aghili/password_storage/tree/main/docs/images/display.png?raw=true)
+</p>
+
+<p align="center">
+<img src="docs/images/display.png" alt="DIY Project" width="500"/>
+
+</p>
