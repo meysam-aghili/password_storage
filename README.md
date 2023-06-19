@@ -17,6 +17,7 @@ python manage.py runserver
 ```
 5. Go to [http://localhost:8000](http://localhost:8000) to see your website.
 
-![login page](relative%20docs/images/login.png?raw=true "Lisplay Page")
 
-![display page](relative%20docs/images/display.png?raw=true "Display Page")
+![login page](https://github.com/meysam-aghili/password_storage/tree/main/docs/images/login.png?raw=true)
+
+![display page](https://github.com/meysam-aghili/password_storage/tree/main/docs/images/display.png?raw=true)
