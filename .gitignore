@@ -1,0 +1,5 @@
+.venv
+Todo.txt
+__pycache__
+.vscode
+run.bat
