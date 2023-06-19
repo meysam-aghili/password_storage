@@ -17,7 +17,8 @@ python manage.py runserver
 ```
 5. Go to [http://localhost:8000](http://localhost:8000) to see your website.
 
-
 <img src="docs/images/login.png" alt="Login Page" height="500px"/>
+
+6. After sign up or login, you can see, add, delete or edit your passwords.
 
 <img src="docs/images/display.png" alt="Display Page"/>
