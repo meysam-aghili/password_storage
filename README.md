@@ -18,7 +18,6 @@ python manage.py runserver
 5. Go to [http://localhost:8000](http://localhost:8000) to see your website.
 
 
-<p align="center">
-<img src="docs/images/display.png" alt="DIY Project"/>
+<img src="docs/images/login.png" alt="Login Page"/>
 
-</p>
+<img src="docs/images/display.png" alt="Display Page"/>
